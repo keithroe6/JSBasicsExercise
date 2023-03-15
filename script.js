@@ -31,6 +31,7 @@ console.log(5**4-9);
 
 // Bonus 3.
 console.log('I'.length - 'Am'.length + 'Iron'.length - 'Man'.length);
+console.log('I'.length - 'Am'.length + 'Iron'.length % 'Man'.length);
 
 // Bonus 4.
 console.log('CAP'[1]);
